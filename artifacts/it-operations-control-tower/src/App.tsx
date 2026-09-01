@@ -132,6 +132,7 @@ const navItems: { label: string; href: string; icon: IconType; note?: string }[]
   { label: 'Procurement', href: '/procurement', icon: ClipboardCheck },
   { label: 'Treasury', href: '/treasury', icon: WalletCards },
   { label: 'Compliance', href: '/compliance', icon: BookOpen },
+  { label: 'Vendor portal', href: '/vendor-portal', icon: Globe2, note: 'External' },
   { label: 'Administration', href: '/admin', icon: LockKeyhole },
 ];
 
